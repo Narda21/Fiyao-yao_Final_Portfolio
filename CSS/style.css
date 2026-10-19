@@ -2,7 +2,7 @@ html {
     scroll-behavior: smooth;
 }
 header {
-    background: linear-gradient;
+    background: linear-gradient; 
     background-color: blue;
     color: black;
     padding: 50px 20px;
